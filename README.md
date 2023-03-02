@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://resume.creddle.io/resume/j1rur8vwj8w](https://resume.creddle.io/resume/j1rur8vwj8w)
 
-- ⚡ Fun fact ** My name is from Teletubbies. I love to travel and go exploring with my Golden Retriever Milo!**
+- ⚡ Fun fact **My name is from Teletubbies. I love to travel and go exploring with my Golden Retriever Milo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
