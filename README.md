@@ -2,7 +2,7 @@
 <h3 align="center">I am a full stack web developer focusing more on the back-end, that graduated from a coding bootcamp with a background working in sale and services. Coding excites me as I am able to creatively come up with solutions to different problems. I believe I can bridge the gap between technology and user interfaces. I want to make an impact on users as well as the technology to provide a seamless experience with my knowledge; I want to utilize the skills I have learned about users as well as web development.</h3>
 
 
-- 🌱 I’m currently learning **AWS Cloud Cert**
+- 🌱 I’m currently learning **AWS Cloud Cert & Algorithms**
 
 - 📝 I regularly write articles on [medium.com/@lalafang33](medium.com/@lalafang33)
 
